@@ -1,21 +1,43 @@
 .box {
-    height: 380px;
-    width: 200px;
-    background-color: #26004d;
-    padding: 5px;
-    border-radius: 10px;
-    margin:10px;
+        height: 150px;
+        width: 380px;
+        display: flex;
+        background-color: #26004d;
+        padding: 5px;
+        border-radius: 5px;
   }
 
   .item {
+    background-color:#ccf2ff;
     height: 50px;
     width: 50px;
-    background-color:#ffcce6;
-    color:#99004f ;
     margin: 10px;
-    font-size: 40px;
-    text-align: center;
-    padding: 5px;
+    font-size: 50px;
+    padding: 10px;
     border-radius: 10px;
-    border: 1px solid white;
+    border: solid 1px white;
   }
+
+  .box1 {
+    height: 150px;
+    width: 420px;
+    display: flex;
+    flex-direction:row;
+    background-color: #26004d;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.item1 {
+background-color:#ccf2ff;
+height: 50px;
+width: 50px;
+margin: 10px;
+font-size: 50px;
+padding: 10px;
+border-radius: 10px;
+border: solid 1px white;
+}
+
+
+  
