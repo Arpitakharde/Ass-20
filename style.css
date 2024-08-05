@@ -123,3 +123,25 @@ padding: 10px;
 border-radius: 10px;
 border: solid 1px white;
 }  
+
+.box6{
+    height: 150px;
+    width: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content:end;
+    background-color: #26004d;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.item6 {
+background-color:#ccf2ff;
+height: 50px;
+width: 50px;
+margin: 10px;
+font-size: 50px;
+padding: 10px;
+border-radius: 10px;
+border: solid 1px white;
+}  
