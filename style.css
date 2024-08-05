@@ -234,3 +234,25 @@ border: solid 1px white;
     border: solid 1px white;
     }  
 
+    .box11{
+        height: 130px;
+        width: 530px;
+        display: flex;
+        flex-direction: row;
+        align-items: start;
+        background-color: #26004d;
+        padding: 5px;
+        border-radius: 5px;
+    }
+    
+    .item11 {
+        background-color:#ccf2ff;
+        height: 50px;
+        width: 50px;
+        margin: 10px;
+        font-size: 50px;
+        padding: 10px;
+        border-radius: 10px;
+        border: solid 1px white;
+        }  
+
